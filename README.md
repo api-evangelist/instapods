@@ -64,5 +64,124 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ExpressTech Systems is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog) and added to the network as a stub for full-pipeline profiling.
-- https://instapods.com/
+ExpressTech Systems provides a platform that instantly deploys applications to the web, offering a seamless experience for developers to move from local development to live production. Users can launch apps with a single command, integrate with AI assistants, and manage hosting, databases, and scaling without complex infrastructure. The service includes a free tier, credit incentives, and extensive documentation covering deployment, APIs, pricing, and support, aiming to simplify app deployment for both hobbyists and enterprises.
+
+**Areas:** Company · Deployment · Cloud · AI-Integration · DeveloperTools
+
+## ExpressTech Systems on APIs.io
+
+Everything profiled for ExpressTech Systems is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/instapods/](https://apis.io/providers/instapods/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [ExpressTech Systems API](https://apis.io/apis/instapods/instapods-api/) — ExpressTech Systems API as documented publicly: 25 operations. Contract generated from the documentation by API Evangelist (2026-10-18); not the provider's…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetApiPodsMyAppEventsResponse](https://apis.io/schemas/instapods/instapods-get-api-pods-my-app-events-response/)
+- [PostApiImportsRequest](https://apis.io/schemas/instapods/instapods-post-api-imports-request/)
+- [PostApiImportsResponse](https://apis.io/schemas/instapods/instapods-post-api-imports-response/)
+- [PostApiPodsFromZipResponse](https://apis.io/schemas/instapods/instapods-post-api-pods-from-zip-response/)
+- [PostApiPodsMyAppAppsCrmSetupRequest](https://apis.io/schemas/instapods/instapods-post-api-pods-my-app-apps-crm-setup-request/)
+- [PostApiPodsRequest](https://apis.io/schemas/instapods/instapods-post-api-pods-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Instapods Context](https://apis.io/jsonld/instapods/instapods-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ExpressTech Systems API Rules](https://apis.io/rules/instapods/instapods-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Instapods Authentication](https://apis.io/security/instapods/instapods-authentication/)
+- [Instapods Domain Security](https://apis.io/security/instapods/instapods-domain-security/)
+- [Instapods Vulnerability Disclosure](https://apis.io/security/instapods/instapods-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Instapods Plans Pricing](https://apis.io/plans/instapods/instapods-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://instapods.com/)
+- [Documentation](https://docs.instapods.com/)
+- [Getting started](https://docs.instapods.com/quickstart)
+- [API reference](https://docs.instapods.com/api-reference/overview)
+- [Pricing](https://instapods.com/pricing/)
+- [Support](https://instapods.com/support/)
+- [Blog](https://instapods.com/blog/)
+- [Terms of service](https://instapods.com/terms/)
+- [Privacy policy](https://instapods.com/privacy/)
+- [GitHub](https://github.com/instapods)
+- [Status](https://status.instapods.com)
+
+## API Evangelist rating
+
+**Kin Score 60.0** — strong · rubric 0.24.0 · scored 2026-10-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 55.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 36.8 |
+| Developer ergonomics | 54.8 |
+| Access clarity | 60.0 |
+
+**Agent readiness 43.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/instapods/](https://apis.io/providers/instapods/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ExpressTech Systems: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/instapods/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
